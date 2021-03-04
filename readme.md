@@ -1,7 +1,12 @@
-# 携程移动端 flex
+# Mobile Ticket Site
+![](./screenshot.png)
 
-### 循环精灵图
-![](./images/localnav.png)
+
+### FLex Layout
+![](./images/screenshort.png)
+
+
+### FOR Loop and Function
 ```js
  function changeSpritesPosition(className) {
         let pics = document.querySelectorAll(className);
@@ -18,6 +23,7 @@
 ```
 
 ### 背景色线性渐变
+![](https://ferret.akamaized.net/images/5a1a5bc77f58a840d3000384/original.png?1511676870)
 ```css
-background: -webkit-linear-gradient(left, red, blue)
+background: -webkit-linear-gradient(left, orange, purple)
 ```
